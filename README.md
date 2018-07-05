@@ -22,11 +22,11 @@ Enter blockchain, STEEMIT and Dan’s gift of putting a twist on the familiar an
 
 During the creation of the TRMS a re-evaluation of these money creation schemes was conducted and a question was posed:  What is the “Most Fair” method of money creation?
 
-The past showed the Banksters said “I care not who makes the Laws…….
+The past showed the Banksters said “I care not who makes the Laws……".
 And the Colony Governments said “The Government will Create and Decide”
 And the USA said Gold and Silver
 
-But really,,,,, if the legitimacy for creating more monetary supply is that there is more goods in the economy, then shouldn’t the people that “add wealth” to the economy be the beneficiaries of the “new money created”?  How this would function will be be examined below. 
+But really,,,,, if the legitimacy for creating more monetary supply is that there is more goods and resources in the economy, then shouldn’t the people that “add wealth” to the economy be the beneficiaries of the “new money created”?  How this would function will be be examined below. 
 
 These links are an educational series on the original non-crypto TRMS. They include issues that do not need to be addressed in a “cryptoTRMS” as the cryptoTRMS is a global system and has no concerns about import and export of materials:
 
@@ -37,16 +37,17 @@ https://www.facebook.com/notes/mark-traver/trms-101-finance-the-law-series/10150
 THE PROBLEM WITH CRYPTOCURRENCIES (MONEY COINS)
 We live in a controlled economic system of Fractional Reserve money creation utilizing notes and bonds of personal and National debt (IOU’s) to create bank deposits and circulating Federal Reserve Notes.  The beneficiary of this activity is primarily the Federal Reserve and the Bank of International Settlements.  
 
-We all recognize that this system is a form of slavery using a Keynesian economic model and is in serious need of change.  Along comes Bitcoin and people feel in their hearts that the change is near, but yet we fall into our old habits and instead of rethinking the situation, we do the same old things.
+We all recognize that this system is a form of slavery using a Keynesian economic model and is in serious need of change.  Along comes Bitcoin and people feel in their hearts that the change is near, but yet we fall into our old habits and instead of rethinking the situation, we do the same old things, uncreative "DigitalGold" or just a plain currency.
 
 “We can’t defeat the existing system; we must build a better one instead” by David McElroy
+
 Buckminster Fuller – "Build a New Model That Makes the Existing Model Obsolete" 
 
 So what do we do, we start using Cryptos like we already use money in the existing fiat monetary system.  We speculate and hope for gains and don’t institute new paradigms of lending and behavioral motivation towards common goals instead of self interest.  We have this wonderful seemingly full of limitless possibilities new tool and we go and use it like a hammer, like the least intelligent tool in the box.
 
-What we need is a whole new economic system where the creation of money goes to the creator of the real wealth (retain-able recyclable content and added value) and not to the bank or some central entity like government.  A brand new way of monetary creation that is used to encouraged social benefit and prosperity via stimulating ease of entry into both business and markets for entrepreneurs and intelligent design of products to maximize recycle-ability and reuse-ability.  An intelligently designed Economic System that includes all aspects of the economy from Natural Resource extraction and Commodities Exchanges to Design and Recycling, with OpenMarketPlaces to exchange goods freely and arbitration and governance systems for continued smooth operation. (Real Estate and Housing and some other topics are not covered in this Executive Summary) 
-TRMS – Transitional Resource Monetary System
+What we need is a whole new economic system where the creation of money goes to the creator of the real wealth (retain-able recyclable content and added value) and not to the bank or some central entity like government.  A brand new way of monetary creation that is used to encouraged social benefit and prosperity via stimulating ease of entry into both business and markets for entrepreneurs and intelligent design of products to maximize recycle-ability and reuse-ability.  An intelligently designed Economic System that includes all aspects of the economy from Natural Resource extraction and Commodities Exchanges to Design and Recycling, with OpenMarketPlaces to exchange goods freely and arbitration and governance systems for continued smooth operation. (Real Estate and Housing and some other topics are not covered in this Executive Summary)
 
+TRMS – Transitional Resource Monetary System
 
 DESIRED SOCIAL RESULTS
 It is the intention of this economic system to provide a stable currency backed by recyclable materials both in storage and in products within the economy. 
@@ -68,7 +69,7 @@ DISTRIBUTION METHODS
 The governance token will be widely airdropped to EOS accounts and TRMS Dapp developers as their observed concern for similar ideals makes them perfect candidates.  EOS snapshot account holders with accounts of 100 EOS tokens or more that are NOT Exchanges will get TRMS tokens in a 1:1 manner, such that the amount given will equal 70% of the Distribution.  The remaining 30% shall be divided in two parts, 20% will be given to developers of Dapps (aka the platform) and their support networks and finally 10% shall stay with the original designer (M. Traver) until he feels confident in ongoing performance of the DAE and sells off his influence (TRMS Tokens).  Governance tokens will have voting rights on issues of VARIABLES in the Dapps’ systems (DAE). 
 
 	MRT Token (“$mart Coin”)
-The currency of the DAE for the TRMS is the $MRT (eg. $100MRT = “100 Smarts”) and is used for all purposes of commerce. The value is fixed to a ratio of recyclable commodity values including gold and silver. The monetary supply is set by the 3 forms of currency creation explained below. Some require the BURNING of the token when repaid at the end of the contract.
+The currency of the DAE for the TRMS is the $MRT (eg. $100MRT = “100 Smarts”) and is used for all purposes of commerce in this physical economy. The value is fixed to a ratio of recyclable commodity values including gold and silver. The monetary supply is set by the 3 forms of currency creation explained below. Some require the BURNING of the token when repaid at the end of the contract.
 
 1.  Anyone in possession of goods with recyclable content (who will recycle it at the end of its life-cycle) may go to a qualified “Recycle Center” and have an RFID tracker (VEN style [initial partnership?]) installed and a certification of the recyclable content value less the cost of recycling of the good given and paid out in new $MRT coin in said value .
 
@@ -79,7 +80,7 @@ The currency of the DAE for the TRMS is the $MRT (eg. $100MRT = “100 Smarts”
 MONETARY MOTIVATORS
 Any product design with certified recyclable content may get that amount of recyclable content for production (less recycling costs) FREE of charge at the Recycle Center or location external to the DAE. This encourages product producers to make products with the highest percentage of recyclable materials possible and that they are as easily recyclable as possible, as this will reduce Production Costs significantly.  Modular and Reusable products will get relative fair consideration.
 
-The TRMS DAE will lower the entry barriers for new entrepreneurs by lowering startup cost both in the smart use of materials and in spread out labor costs.  Lower Barriers means more employed people and a stronger economy with more competition and innovation.
+The TRMS DAE will lower the entry barriers for new entrepreneurs by lowering startup cost both in the smart use of materials and in spread out labor costs.  Lower Barriers means more employed people and a stronger economy with more competition and innovation. In exchange for this service all producers agree to make available all their products on the TRMS MarketPlace where the currency is $MRT.  In this way all employees and others accepting the $MRT have a guaranteed place to spend them.
 
 
 COMPARISON AND THEORY

@@ -39,9 +39,8 @@ We live in a controlled economic system of Fractional Reserve money creation uti
 
 We all recognize that this system is a form of slavery using a Keynesian economic model and is in serious need of change.  Along comes Bitcoin and people feel in their hearts that the change is near, but yet we fall into our old habits and instead of rethinking the situation, we do the same old things, uncreative "DigitalGold" or just a plain currency.
 
-“We can’t defeat the existing system; we must build a better one instead” by David McElroy
-
-Buckminster Fuller – "Build a New Model That Makes the Existing Model Obsolete" 
+“We can’t defeat the existing system; we must build a better one instead” - David McElroy
+"Build a New Model That Makes the Existing Model Obsolete" - Buckminster Fuller
 
 So what do we do, we start using Cryptos like we already use money in the existing fiat monetary system.  We speculate and hope for gains and don’t institute new paradigms of lending and behavioral motivation towards common goals instead of self interest.  We have this wonderful seemingly full of limitless possibilities new tool and we go and use it like a hammer, like the least intelligent tool in the box.
 

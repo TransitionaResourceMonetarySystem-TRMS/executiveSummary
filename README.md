@@ -40,6 +40,7 @@ We live in a controlled economic system of Fractional Reserve money creation uti
 We all recognize that this system is a form of slavery using a Keynesian economic model and is in serious need of change.  Along comes Bitcoin and people feel in their hearts that the change is near, but yet we fall into our old habits and instead of rethinking the situation, we do the same old things, uncreative "DigitalGold" or just a plain currency.
 
 “We can’t defeat the existing system; we must build a better one instead” - David McElroy
+
 "Build a New Model That Makes the Existing Model Obsolete" - Buckminster Fuller
 
 So what do we do, we start using Cryptos like we already use money in the existing fiat monetary system.  We speculate and hope for gains and don’t institute new paradigms of lending and behavioral motivation towards common goals instead of self interest.  We have this wonderful seemingly full of limitless possibilities new tool and we go and use it like a hammer, like the least intelligent tool in the box.
@@ -89,5 +90,62 @@ COMPARISON AND THEORY
 
 	MICRO-ECONOMICS
 
-Table-1:  Per-Widget Start Up Cost for new Entrepreneur
+It is in the interest of everything that we reduce the waist stream and the easy way to do that is to make everything as recyclable as possible.  It is also evident that a currency can also be money as when the USA was on a gold standard.  If we consider that not only gold but any material that can be kept within the economy can be used as an equally good backing to a money,  then any material that is recyclable in a product may be added to the backing of the money supply. Also when a worker “adds value” to a product by his efforts, that added value is for a temporary period in the economy. 
 
+For that reason 50% of peoples pay can be created in MRT and it can be repaid when the product is sold or within one year (by the employer/business owner), whichever is quicker.  In this way the money is made available to buy products in the economy, but it is also burned as the product will eventually one day be broken or no longer serve a purpose at which point it will be recycled and no longer have any added value.  Not only Labor can be assisted, if a product needs “recyclable material” that is not available FREE within the DAE then MRT can be created to pay for the amount of material that will be recyclable when purchased from a vendor outside the DAE.  This new recyclable material remains for perpetuity as recyclable content backing the MRT and is now in the DAE forever.  In this way, the DAE continually acquires recyclable resources and hold them as the “COMMON HERITAGE” of all people on Earth and all that choose to use the TRMS DAE are equally privy to its benefits.
+
+The example of Table-1, shows two scenarios of a entrepreneur and his widget of either 50% recyclable material or 100% recyclable material.  It compares what it would cost to “start up” (per widget unit) under our current system as well as between the recyclable content variable.
+
+			TRADITIONAL				|			TRMS
+			Economic System				|		Economic System
+	Product made with 50% Recyclable Content		|	Product made with 50% Recyclable Content
+---------------------------------------------------------------------------------------------------------------------------
+	Expense			Owner		System		|	Expense			Owner		System
+	-------			-----		------		|	-------			-----		------	
+	Labor			$50		$0		|	Labor			$25		$25
+	Materials		$40		$0		|	Materials		$20		$20
+	Other			$10		$0		|	Other			$10		$0
+								|
+	TOTAL  =               $100		$0		|	TOTAL  =                $55             $45
+								|	After Labor Repaid  =	$80		$20
+	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $75
+	-------------------------------------------------------------------------------------------------------------------
+	
+	
+	WOW! A 45% less startup cost and yet a 50% increase in profits! - That is PROSPERITY my brothers and sisters.
+	So what happens if the Recyclable content goes up to 100% ?
+	
+	
+			TRADITIONAL				|			TRMS
+			Economic System				|		Economic System
+	Product made with 100% Recyclable Content		|	Product made with 100% Recyclable Content
+----------------------------------------------------------------------------------------------------------------------------
+	Expense			Owner		System		|	Expense			Owner		System
+	--------		-----		------		|	-------			-----		------
+	Labor			$50		$0		|	Labor			$25		$25
+	Materials		$40		$0		|	Materials		$0		$40
+	Other			$10		$0		|	Other			$10		$0
+								|
+	TOTAL  =		$100		$0		|	TOTAL  =		$35		$65
+								|	After Labor Repaid  =	$60		$40
+	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $90
+----------------------------------------------------------------------------------------------------------------------------
+
+WOW! Even more amazing with the Recyclable Content at 100%,,, the Entreprenuer only has to invest 35% compared to the Traditional Economic System and they walk away with 180% more profit. PROSPERITY KNOCKS,,, are you opening the door?
+
+As can be seen, the incentives to make more recyclable products is HUGE and the assistance to labor costs is substantial. These two aspects of the TRMS will keep the DAE extremely liquid and active.  In the current Traditional Economic System there is no incentive to make things recyclable (the system thrives on waist) and no consideration is given to labor and added value to products because the only concern is LENDING (or with Colonial Script the question of what the government wants to spend it on).
+
+So, say in Table-1 that the product sells for $150, that would mean a person today would make $50 profit off $100 invested, not bad. The guy with 50% recyclable product at the same price makes $70 profit off of only $55 invested.  Finally the guineas guy that makes the 100% recyclable product makes  $90 off of only $35 invested.  What an increasable difference,, from 1/3 profit to 3X profit off the same 100% Recyclable product.
+
+	MACRO-ECONOMICS
+That micro-economic analysis was amazing, almost unbelievable, but lets take a moment to consider the macro-economics.  Lets look at what happens over time with a DAE full of the 50% recyclable producers, what happens in the economy? Lets consider a DAE of 3 producers.
+
+Producer 1 makes electronics (a-z)
+Producer 2 makes household goods (a-z)
+Producer 3 makes musical instruments (a-z)a
+
+For simplicity ALL producer will have cost structures of the upper right corner of Table-1.
+Each Producer starts with $370MRT and there is $240MRT of Natural Resources at the Recycle Center.
+There is one representative of  Employee account value set to Natural Resource Center value.
+An Account of MRTs and Materials in the DAE.
+The first run of goods production will create 4 widgets.

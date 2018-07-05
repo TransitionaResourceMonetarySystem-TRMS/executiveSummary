@@ -94,8 +94,8 @@ COMPARISON AND THEORY
 	-“Render unto Caesar the things that are Caesar's” - Mark 12:17
 	-“What is NOT Caesar's use for TRUTH, JUSTICE and COMPASSION to fight the existing Principalities of Evil.” - Mark Traver (2018)
 
-	MICRO-ECONOMICS
-
+MICRO-ECONOMICS
+	
 It is in the interest of everything that we reduce the waist stream and the easy way to do that is to make everything as recyclable as possible.  It is also evident that a currency can also be money as when the USA was on a gold standard.  If we consider that not only gold but any material that can be kept within the economy can be used as an equally good backing to a money,  then any material that is recyclable in a product may be added to the backing of the money supply. Also when a worker “adds value” to a product by his efforts, that added value is for a temporary period in the economy. 
 
 For that reason 50% of peoples pay can be created in MRT and it can be repaid when the product is sold or within one year (by the employer/business owner), whichever is quicker.  In this way the money is made available to buy products in the economy, but it is also burned as the product will eventually one day be broken or no longer serve a purpose at which point it will be recycled and no longer have any added value.  Not only Labor can be assisted, if a product needs “recyclable material” that is not available FREE within the DAE then MRT can be created to pay for the amount of material that will be recyclable when purchased from a vendor outside the DAE.  This new recyclable material remains for perpetuity as recyclable content backing the MRT and is now in the DAE forever.  In this way, the DAE continually acquires recyclable resources and hold them as the “COMMON HERITAGE” of all people on Earth and all that choose to use the TRMS DAE are equally privy to its benefits.
@@ -148,12 +148,14 @@ So, say in Table-1 that the product sells for $150, that would mean a person tod
 	MACRO-ECONOMICS
 That micro-economic analysis was amazing, almost unbelievable, but lets take a moment to consider the macro-economics.  Lets look at what happens over time with a DAE full of the 50% recyclable producers, what happens in the economy? Lets consider a DAE of 3 producers.
 
-Producer 1 makes electronics (a-z)
-Producer 2 makes household goods (a-z)
-Producer 3 makes musical instruments (a-z)a
+	Producer 1 makes electronics (a-z)
+	Producer 2 makes household goods (a-z)
+	Producer 3 makes musical instruments (a-z)a
 
 For simplicity ALL producer will have cost structures of the upper right corner of Table-1.
 Each Producer starts with $370MRT and there is $240MRT of Natural Resources at the Recycle Center.
 There is one representative of  Employee account value set to Natural Resource Center value.
 An Account of MRTs and Materials in the DAE.
 The first run of goods production will create 4 widgets.
+
+(TO BE CONTINUED)

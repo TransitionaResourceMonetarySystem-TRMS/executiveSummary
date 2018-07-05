@@ -99,7 +99,7 @@ The example of Table-1, shows two scenarios of a entrepreneur and his widget of 
 			TRADITIONAL				|			TRMS
 			Economic System				|		Economic System
 	Product made with 50% Recyclable Content		|	Product made with 50% Recyclable Content
----------------------------------------------------------------------------------------------------------------------------
+	---------------------------------------------------------------------------------------------------------------
 	Expense			Owner		System		|	Expense			Owner		System
 	-------			-----		------		|	-------			-----		------	
 	Labor			$50		$0		|	Labor			$25		$25
@@ -109,17 +109,19 @@ The example of Table-1, shows two scenarios of a entrepreneur and his widget of 
 	TOTAL  =               $100		$0		|	TOTAL  =                $55             $45
 								|	After Labor Repaid  =	$80		$20
 	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $75
-	-------------------------------------------------------------------------------------------------------------------
-	
-	
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
 	WOW! A 45% less startup cost and yet a 50% increase in profits! - That is PROSPERITY my brothers and sisters.
 	So what happens if the Recyclable content goes up to 100% ?
-	
-	
+
+
+
 			TRADITIONAL				|			TRMS
 			Economic System				|		Economic System
 	Product made with 100% Recyclable Content		|	Product made with 100% Recyclable Content
-----------------------------------------------------------------------------------------------------------------------------
+	---------------------------------------------------------------------------------------------------------------
 	Expense			Owner		System		|	Expense			Owner		System
 	--------		-----		------		|	-------			-----		------
 	Labor			$50		$0		|	Labor			$25		$25

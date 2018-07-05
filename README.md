@@ -37,6 +37,7 @@ https://www.facebook.com/notes/mark-traver/transitional-resource-monetary-system
 https://www.facebook.com/notes/mark-traver/trms-101-finance-the-law-series/10150176954557553/
 
 THE PROBLEM WITH CRYPTOCURRENCIES (MONEY COINS)
+
 We live in a controlled economic system of Fractional Reserve money creation utilizing notes and bonds of personal and National debt (IOU’s) to create bank deposits and circulating Federal Reserve Notes.  The beneficiary of this activity is primarily the Federal Reserve and the Bank of International Settlements.  
 
 We all recognize that this system is a form of slavery using a Keynesian economic model and is in serious need of change.  Along comes Bitcoin and people feel in their hearts that the change is near, but yet we fall into our old habits and instead of rethinking the situation, we do the same old things, uncreative "DigitalGold" or just a plain currency.
@@ -145,7 +146,8 @@ As can be seen, the incentives to make more recyclable products is HUGE and the 
 
 So, say in Table-1 that the product sells for $150, that would mean a person today would make $50 profit off $100 invested, not bad. The guy with 50% recyclable product at the same price makes $70 profit off of only $55 invested.  Finally the guineas guy that makes the 100% recyclable product makes  $90 off of only $35 invested.  What an increasable difference,, from 1/3 profit to 3X profit off the same 100% Recyclable product.
 
-	MACRO-ECONOMICS
+MACRO-ECONOMICS
+
 That micro-economic analysis was amazing, almost unbelievable, but lets take a moment to consider the macro-economics.  Lets look at what happens over time with a DAE full of the 50% recyclable producers, what happens in the economy? Lets consider a DAE of 3 producers.
 
 	Producer 1 makes electronics (a-z)

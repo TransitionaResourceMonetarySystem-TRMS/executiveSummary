@@ -1,7 +1,7 @@
 # executiveSummary
-Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and facilitation the reuse/recycling of all resources.
+Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and facilitation of the reuse/recycling of all resources.
 
-TRANSITIONAL RESOURCE MONETARY SYSTEM
+TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
 
 Global DAO, DAE (Economy) and Supporting Dapps
 Base on Pre-Crypto TRMS by Mark Traver (c2009)

@@ -23,7 +23,7 @@ Enter blockchain, STEEMIT and Dan’s gift of putting a twist on the familiar an
 During the creation of the TRMS a re-evaluation of these money creation schemes was conducted and a question was posed:  What is the “Most Fair” method of money creation?
 
 The past showed the Banksters said “I care not who makes the Laws……".
-And the Colony Governments said “The Government will Create and Decide”
+And the Colony Governments said “The Government will Create and Decide....”
 And the USA said Gold and Silver
 
 But really,,,,, if the legitimacy for creating more monetary supply is that there is more goods and resources in the economy, then shouldn’t the people that “add wealth” to the economy be the beneficiaries of the “new money created”?  How this would function will be be examined below. 

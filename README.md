@@ -1,20 +1,20 @@
 # executiveSummary
 Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and facilitation of the reuse/recycling of all resources.
 
-#TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
+# TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
 
-##Global DAO, DAE (Economy) and Supporting Dapps
-##Base on Pre-Crypto TRMS by Mark Traver (c2009)
+## Global DAO, DAE (Economy) and Supporting Dapps
+## Base on Pre-Crypto TRMS by Mark Traver (c2009)
 
 
 05/17/18
 EXECUTIVE SUMMARY:
 
-##PREFACE
+## PREFACE
 
 This summary is intended to be the simplest and shortest possible explanation of this system while accurately conveying the main concepts behind the Economic System know as the TRMS, and its logical implementation within the blockchain ecosystems. Such implementation could create a seamless and complete automated global economic system that promotes lower barriers of entry for goods producers and the creation of products with the highest level of recyclable and re-usable materials as possible.  The expected long term results of operating an economic system like this is that over time there will be more and more resources and goods in the economy while at the same time increasing the in-pocket money that the average person has as savings (available cash) all while the currency value stays linked to commodity quantities.  At some point people will have so many things and so many “dollars” that the perceived wealth will be so high that there will no longer be any need to sell anything for profit and we will be able to enter the era of the Resource Based Economy (RBE).
 
-##MODERN MONEY CREATION
+## MODERN MONEY CREATION
 
 Although there have been a few examples of GOLD backed currencies in the modern era (the USA until 1933,1971 and Switzerland until 2000) after the Renaissance European royalty was compelled to  expand the money supply beyond their stored gold and coin which brought about the first “Fractional Reserve” institution of money creation.  The Rothschilds figured this one out, if the economy grows there needs to be an equivalent growth in the money supply or else the economy grinds to a halt.  In fact neither INFLATION nor DEFLATION are desireable, one causes the devaluation of savings, the onther devalues assets (decreasing the desire to own them-think droping of MEMORY prices as a comparison). The optimal monitary system would hold the value of money stable, so that pepoles savings held value and business could invest with confidence about the future. Looking back at what happened one would have to concluded the royalty were not to bright and got duped by the Rothschilds and the “Banksters” as they were allowed the ability to create money by the mere request of a borrower and his signature and run away with the intrest scott free.
 
@@ -50,9 +50,9 @@ So what do we do, we start using Cryptos like we already use money in the existi
 
 What we need is a whole new economic system where the creation of money goes to the creator of the real wealth (retain-able recyclable content and added value) and not to the bank or some central entity like government.  A brand new way of monetary creation that is used to encouraged social benefit and prosperity via stimulating ease of entry into both business and markets for entrepreneurs and intelligent design of products to maximize recycle-ability and reuse-ability.  An intelligently designed Economic System that includes all aspects of the economy from Natural Resource extraction and Commodities Exchanges to Design and Recycling, with OpenMarketPlaces to exchange goods freely and arbitration and governance systems for continued smooth operation. (Real Estate and Housing and some other topics are not covered in this Executive Summary)
 
-#TRMS – Transitional Resource Monetary System
+# TRMS – Transitional Resource Monetary System
 
-##DESIRED SOCIAL RESULTS
+## DESIRED SOCIAL RESULTS
 
 	1. It is the intention of this economic system to provide a stable currency backed by recyclable materials both in storage and in products within the economy. 
 	2. to promote the usage of recyclable materials and technologies as well as modularity and reusable products.
@@ -69,7 +69,7 @@ The DAE of the TRMS is composed of a governance token (TRMS) of its governing DA
 	2. Natural Resources (not yet extracted)
 	3. Labor adding value to physical products
 
-##DISTRIBUTION METHODS
+## DISTRIBUTION METHODS
 
 	TRMS Token (“Terms Vote”)
 The governance token will be widely airdropped to EOS accounts and TRMS Dapp developers as their observed concern for similar ideals makes them perfect candidates.  EOS snapshot account holders with accounts of 100 EOS tokens or more that are NOT Exchanges will get TRMS tokens in a 1:1 manner, such that the amount given will equal 70% of the Distribution.  The remaining 30% shall be divided in two parts, 20% will be given to developers of Dapps (aka the platform) and their support networks and finally 10% shall stay with the original designer (M. Traver) until he feels confident in ongoing performance of the DAE and sells off his influence (TRMS Tokens).  Governance tokens will have voting rights on issues of VARIABLES in the Dapps’ systems (DAE). 
@@ -83,19 +83,19 @@ The currency of the DAE for the TRMS is the $MRT (eg. $100MRT = “100 Smarts”
 
 3.  Natural Resource Extractors upon submission of proper documentation of Resource Value, Cost of Extraction, Cost of Reclamation and Labor Costs can get ½ the net value of the resource, after said considerations, for up to one year or when the resource is sold, whichever comes first.
 
-##MONETARY MOTIVATORS
+## MONETARY MOTIVATORS
 
 Any product design with certified recyclable content may get that amount of recyclable content for production (less recycling costs) FREE of charge at the Recycle Center or location external to the DAE. This encourages product producers to make products with the highest percentage of recyclable materials possible and that they are as easily recyclable as possible, as this will reduce Production Costs significantly.  Modular and Reusable products will get relative fair consideration.
 
 The TRMS DAE will lower the entry barriers for new entrepreneurs by lowering startup cost both in the smart use of materials and in spread out labor costs.  Lower Barriers means more employed people and a stronger economy with more competition and innovation. In exchange for this service all producers agree to make available all their products on the TRMS MarketPlace where the currency is $MRT.  In this way all employees and others accepting the $MRT have a guaranteed place to spend them.
 
 
-##COMPARISON AND THEORY
+## COMPARISON AND THEORY
 
 	-“Render unto Caesar the things that are Caesar's” - Mark 12:17
 	-“What is NOT Caesar's use for TRUTH, JUSTICE and COMPASSION to fight the existing Principalities of Evil.” - Mark Traver (2018)
 
-##MICRO-ECONOMICS
+## MICRO-ECONOMICS
 	
 It is in the interest of everything that we reduce the waist stream and the easy way to do that is to make everything as recyclable as possible.  It is also evident that a currency can also be money as when the USA was on a gold standard.  If we consider that not only gold but any material that can be kept within the economy can be used as an equally good backing to a money,  then any material that is recyclable in a product may be added to the backing of the money supply. Also when a worker “adds value” to a product by his efforts, that added value is for a temporary period in the economy. 
 
@@ -146,7 +146,7 @@ As can be seen, the incentives to make more recyclable products is HUGE and the 
 
 So, say in Table-1 that the product sells for $150, that would mean a person today would make $50 profit off $100 invested, not bad. The guy with 50% recyclable product at the same price makes $70 profit off of only $55 invested.  Finally the guineas guy that makes the 100% recyclable product makes  $90 off of only $35 invested.  What an increasable difference,, from 1/3 profit to 3X profit off the same 100% Recyclable product.
 
-##MACRO-ECONOMICS
+## MACRO-ECONOMICS
 
 That micro-economic analysis was amazing, almost unbelievable, but lets take a moment to consider the macro-economics.  Lets look at what happens over time with a DAE full of the 50% recyclable producers, what happens in the economy? Lets consider a DAE of 3 producers.
 

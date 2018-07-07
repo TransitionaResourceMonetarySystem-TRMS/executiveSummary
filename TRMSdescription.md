@@ -212,4 +212,165 @@ Most the terms of repayment, the percentages of $MRTokens ~~(TN's)~~ towards emp
 
 6
 
+Chapter 3
 
+ 
+
+ 
+
+REAL PROPERTY: Structures & Land
+
+The facilitation of the appropriate use of land to facilitate the General Welfare of All people and All Inhabitants of the Earth is essential and shows stewardship towards creation. Farm Land & Natural Lands have an inherent value, and whatever part of those assess are allowed into the marketplace, and equivalent amount of NOTES must be created. Other types of Land (and small parts of Farm Land) are intended for Structures which hold a decreasing value over time, but also represent an increase in Marketplace Assets and therefore justifies a temporary creation of NOTES. People should be free to create new types of uses for Land, therefore flexibility should be maintained to adapt the Monetary System to those situations as they arise. Control mechanisms will be suggested as examples of ways to maximize benefit for the “General Welfare” of everyone and everything on Earth. Consumable goods, food & drink, do not add a sustained increase in the Material Value in the Marketplace, therefor no NOTES will be created and issued for such things.
+
+ 
+
+ 
+
+FARMLAND (Agriculture)
+
+Food is of obvious importance and interim Pres. Turner has suggested that long term (99 year) low interest loans be made available for acquisition and use of Land for food production. TRMS suggests that a Certified Farming Business (CFB) need not purchase Land for use in agriculture, however that CFB may purchase the Land at Fair Market Value (FMV) and own it. When Farm Land is purchased by an Individual/Business from its previous owner, the Treasury will create RN's at up to 90% (+or-) of the FMV or to a lesser extent if the Individual/Business wish to come up with more of their own money. The Treasury will Ledger the Account and the Individual/Business may buy of the ownership rights from the Treasury at any time and at rate they wish. Upon pay off of any portion of the RN's on Loan, the RN's are to be removed from circulation (not a government income source). The Owner of the Land will be given AN's by the Treasury for the Recyclable Resources in the Permanent Structures built for the Farm (the %Non-Recyclable Resources [%NR] must be burdened upon the Business/Farm). Upon sale of the Land with the Structure(s) any remaining RN's and all AN's must be repaid (a 0% interest loan) to the Treasury. Upon construction of any Structure(s), the %NR value is TAXED at 100% (+or-) in AN's and is spendable by the Government for Projects and Payroll. The earnings from the sale of the Recyclable Resources is retained by the Business/Individual. Employees will receive TN”s from the Treasury at 50% of pay and the TN's will be repaid by the Business/Farm at/by their financial year-end.
+
+ 
+
+ 
+
+Natural Forest / Food Forest
+
+Forest are self sustaining ecosystems that the Earth has created and depends on for the maintenance of life. The critical nature of these systems requires that our stewardship over these areas is mandatory. For this reason, any project or business that can increase the biodiversity and biomass of an area is declared of benefit to the General Welfare. To whatever extent a business can show an increase in maintained Biomass on the Land, Private or Public, and to whatever extent a Individual/Business can show an increase in diversity of Life on the land, Private or Public, the Treasury will create and issue AN's to the business. If the Land is private and the Business wishes to sell the Forest Land to the Government, the Treasury will create and issue RN's to the business (at the amount of FMV – AN,s already issued = Issued RN's for purchase). The Government may Protect, Hold or Sell this property, as the people deem in the interest of the General Welfare of All on Earth, at any time or place. The Treasury may use the proceeds of sale, less the repayment of any RN's issued at time of purchase, to pay for Government Projects and Payroll.
+
+ 
+
+ 
+
+10
+
+ 
+
+COMMERCIAL
+
+Commercial/Service destinations being desirable, the Treasury will create RN's at up to 90%(+or-) of the FMV, or to a lesser extent if the Individual/Business wishes to come up with more of their own money, for the value of Land that a Business/Individual purchases for such an enterprise. In addition the Owner of the Land will be given AN's by the Treasury for the Recyclable Resources in the Permanent Structures built on the Land (the %Non-Recyclable Resources [%NR] must be burdened upon the business). Upon sale of the Land with the Structure(s) the RN's and AN's must be repaid (a 0% interest loan) to the Treasury. Upon construction of any Structure(s), the %NR value is TAXED at 100% (+or-) in AN's and is spendable by the Government for Projects and Payroll, and the earnings from the sale of the Recyclable Resources is retained by the Business/Individual.
+
+ 
+
+ 
+
+INDUSTRIAL
+
+Facilities for production are the main arenas for the creation of new wealth and should be encouraged. For this reason, the Treasury will create RN's at up to 90% (+or-) of the FMV, or to a lesser extent if the Individual/Business wishes to come up with more of their own money, for the purchase of Land. In addition the Owner of the Land will be given AN's by the Treasury for the Recyclable Resources in the Permanent Structures built on the Land (the %Non-Recyclable Resources [%NR] must be burdened upon the business). Upon sale of the Land with the Structure(s) the RN's and AN's must be repaid (a 0% interest loan) to the Treasury. Upon construction of any Structure(s), the %NR value is TAXED at 100% (+or-) in AN's and is spendable by the Government for Projects and Payroll, and the earnings from the sale of the Recyclable Resources is retained by the Business/Individual. In addition, the purchase of Production Equipment may be a TN Loan from the Treasury at 0%, spread over the expected useful life of the Production Equipment.
+
+ 
+
+ 
+
+HOUSING
+
+Shelter is a fundamental necessity and therefor a necessary component of any claim to the “General Welfare”. For this reason, the Treasury will create RN's at up to 100% (+or-) of the FMV, or to a lesser extent if the Individual wishes to come up with more of their own money, for the purchase of Land. In addition the Treasury will create and give the Homeowner AN's equal to the the value of the Recyclable Resources in the Home/Structure. Also, the Treasury will Loan the Homeowner at 0% over 15 years the the remaining costs. Upon sale of the Land with the Home/Structure(s) the RN's and AN's must be repaid (a 0% interest loan) to the Treasury. Upon construction of any Structure(s), the %NR value is TAXED at 100% (+or-) in AN's and is spendable by the Government for Projects and Payroll, and the earnings from the sale of the Recyclable Resources is retained by the Individual.
+
+ 
+
+ 
+
+COBINED USE
+
+People should be and are free to pursue any creative ideas they have, including but not limited to the creation of new types of Land Use categories, and the creative combination of Use Categories to facilitate the Pursuit of Happiness and the General Welfare. It is the responsibility of the Treasury to adapt the Monetary System to the needs of theses ideas as to best promote the General Welfare.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+Chapter 4
+
+PUBLIC UTILITIES
+
+Since their inception, Public Utilities have been subject to special regulation in order to maximize the benefit to the General Welfare and to minimize the potential for financial abuse. In addition it is clear that policy should stimulate and promote the more sustainable and least environmentally impacting technologies. None of the commodities below add any permanently recyclable resources so there is NO justification for creation of capital (except for those in the physical buildings etc.) as a main funding source.
+
+ 
+
+ENERGY
+
+Energy does work, and therefor is equivalent to the “Added Value” of human labor. So a sustained increase in available energy is like increasing the output per worker. In the US electric usage is about 11.4 kW per person and a normal human diet is about 2,000 K cal per day. This means that each person in the US uses the energy of some 13 people every day to accomplish their tasks. The average GNP per person is $25,860 per year, and since the mid 1970 per-capita electrical usage has remained stable around 350 million BTU. Despite this, National electricity usage has gone up about 1% per year over a similar 25 year period (75-99). As a “general principal” then, it may be establish that TN's up to the value of 30% of the future end-user available energy expected production of a proposed “Energy Plant” may be loaned to develop the project and paid back over the lifetime of the plant at a minimum of 50% of revenues (until repaid in full).
+
+ 
+
+Electricity
+
+GEOTHERMAL – Of all the traditional “alternative” energies, geothermal by far offers the most potential for long term high output with minimal environmental effect. In addition it utilizes the existing centralized transmission structures and systems of management. The promotion of conversion from Oil and Coal power plants to geothermal is desirable. For this reason a TN loan up to 70% the future end-user available energy expected production for a facility. Payback must therefor also be increased to a minimum of 75% of revenues (until repaid in full).
+
+SOLAR POWER –
+
+WIND POWER -
+
+WATER POWER –
+
+OVER-UNITY DEVICES –
+
+NON-RENEWABLE –
+
+ 
+
+ 
+
+Natural Gas
+
+the damages to the environment and its integrity. As the natural gas is sold, the RN's are to be paid back quarterly to the TREASURY. (to allow for market price variation), the TREASURY will loan RN's to natural gas extraction businesses to cover expenses (less 50% of total employee pay – see above) in order to accomplish the task. An Environmental Remediation Plan must be accounted for as to Natural Gas is not only used for energy, it is used for fertilizer production. Being a non-renewable resource, it makes sense to minimize its burning and non recoverable fertilizer use, and maximize its uses where at least some of, if not all of, its value may be recycled (same holds true for Oil). When reasonably shown to exist and be extractable
+
+13
+
+COMUNICATIONS
+
+The ability to communicate is essential in a modern society as well lubricating commerce and is essential for maintenance of a responsive government to the people. For this reason, the “general welfare” dictates that these services should be made available to all at a minimum of encumbrance. At this time the author reserves any opinions as to government financing, however he does feel this is an appropriate area for “Government Projects”, however this must be decided by the voters/constituents. Communication is not a tangible physical object that is added to the marketplace, so there con not be the creation of notes. However, the physical structures and infrastructure are entitled to AN's to the extent they are recyclable.
+
+ 
+
+Phone -
+
+Internet –
+
+Future Technology –
+
+ 
+
+WATER
+
+Availability of fresh water is historically the measure of wealth in a civilization. There is NO doubt that water is of up most importance to people, along with water and breathable air. For this reason, water projects have historically been government projects. Voter approval required for all projects. However, water is a “temporary” commodity like food, and is used shortly after produced in usable availability. Therefor the creation of notes is not possible. Government Projects would be able to use created AN's to the extent that the physical materials of the project were recyclable (as with all business). Voters would suggest adaptions to Government Projects and their funding.
+
+ 
+
+Capture of Rain –
+
+Use of Streams & Rivers –
+
+Well and Ground Water –
+
+Lakes and Dams
+
+ 
+
+ 
+
+NEW CREATIONS
+
+It should not be assumed that all good ideas on Utilities and their possibilities has been considered. Therefore the possibility of new creations should encouraged and given consideration when brought up.
+
+ 
+
+PRIVATE INDEPENDENCE
+
+Private independence is paramount. If people wish to stay off the grid or off the sewage system, or use alternative construction or alternative energies, they should be not only allowed but encouraged to do so. All benefits possible should be given to those seeking independence.
+
+ 
+
+ 
+
+14
+
+example NOTE typesexample NOTE types
+TRMS note cycleTRMS note cycleTRMS-Money Resource CycleTRMS-Money Resource Cycle

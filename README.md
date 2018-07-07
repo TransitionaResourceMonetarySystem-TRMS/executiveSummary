@@ -1,5 +1,5 @@
 # executiveSummary
-### Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and facilitation of the reuse/recycling of all resources.
+### Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and to facilitate the reuse/recycling of all resources.
 
 # TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
 

@@ -140,22 +140,10 @@ Three (3) types of NOTES will be issued as $MRTokens on an ongoing basis.
 1. Two (2) of them are “LOANS” (at 0%) by the TRMS:
    1. to employees (non-corporate, under Full Liability) called a Temporary Note (TN) backed by the added value to products from their labor.
    1. and to Natural Resource Extractors (Resource Notes:RN) backed by discovered but yet un-recovered natural resources.
-   1. Neither of these two (2) types of notes will be issued in the paper form seen below, they will ONLY be issued as ~~DEBIT  CARDS~~ $MRTokens (electronic funds). The employee loans are to be repaid by the employer upon sale of the created good (or appropriate time cycle; eg 1 year) and burned by the TRMSystem.
+   1. Neither of these two (2) types of notes will be issued in the paper form~~seen below~~, they will ONLY be issued as ~~DEBIT  CARDS~~ $MRTokens (electronic funds). The employee loans are to be repaid by the employer upon sale of the created good (or appropriate time cycle; eg 1 year) and burned by the TRMSystem.
 1. The third type is an Asset Note (AN) that in essence never leaves the Money Supply because it represents the value of Recyclable Resources in the finished products in existence and stored in Recycle Centers. These AN's permanently exist as ~~Paper Money~~ $MRTokens in the economy backed by real material wealth.
 
- 
-
-2
-
- 
-
-3
-
- 
-
 # MONEY (NOTE) CREATION : RECAPTURE : DESTRUCTION
-
- 
 
 ## TEMPORARY NOTES
 

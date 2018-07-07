@@ -132,11 +132,16 @@ In the beginning Barter was the means of exchange for commodities. This is the m
 
 ## THE PURPOSE:
 
-A Monetary System should not hinder the ability for labor to produce, and it should have an automatic system that keeps the Money Supply in check with the current Products (physical things possessed) in existence. This insures the free exercise of creative production and minimizes any chance of inflation or deflation of the Money Supply. All “sound” money is backed by something tangible, and “fiat” currency is by nature subject to corruption. For these reasons this Transitional Resource Monetary System (TRMS) is being proposed to the people of the Republic for the united States of America and to the World for its adoption and use by the our TREASURY for the said union of Free States in order to SECURE THE CREATOR'S BLESSINGS FOR OURSELVES AND OUR POSTERITY.
+A Monetary System should not hinder the ability for labor to produce, and it should have an automatic system that keeps the Money Supply in check with the current Products (physical things possessed) in existence. This insures the free exercise of creative production and minimizes any chance of inflation or deflation of the Money Supply. All “sound” money is backed by something tangible, and “fiat” currency is by nature subject to corruption. For these reasons this Transitional Resource Monetary System (TRMS) is being proposed to the people of the ~~Republic for the united States of America and to the~~ World for its adoption and use. ~~by the our TREASURY for the said union of Free States~~ in order to SECURE THE CREATOR'S BLESSINGS FOR OURSELVES AND OUR POSTERITY.
 
 ## MEDIUM OF EXCHANGE:
 
-Three (3) types of NOTES will be issued on an ongoing basis. Two (2) of them are “LOANS” (at 0%) by the TREASURY to employers (non-corporate, under Full Liability) called a Temporary Note (TN) backed by Gold & Silver, and a Natural Resource Note (RN) backed by un-recovered natural resources. Neither of these two (2) types of notes will be issued in the paper form seen below, they will ONLY be issued as DEBIT CARDS (electronic funds) as they are to be recaptured each year (or appropriate cycle). The third type is an Asset Note (AN) that in essence never leaves the Money Supply because it represents the value of Recyclable Resources in the finished products in existence. These AN's permanently exist as Paper Money in the economy.
+ Three (3) types of NOTES will be issued as $MRTokens on an ongoing basis.
+ Two (2) of them are “LOANS” (at 0%) by the TRMS:
+  to employers (non-corporate, under Full Liability) called a Temporary Note (TN) backed by Gold & Silver
+  and a Natural Resource Note (RN) backed by un-recovered natural resources.
+ Neither of these two (2) types of notes will be issued in the paper form seen below, they will ONLY be issued as ~~DEBIT  CARDS~~ $MRTokens (electronic funds) as they are to be recaptured (BURNED) each year (or appropriate cycle).
+ The third type is an Asset Note (AN) that in essence never leaves the Money Supply because it represents the value of Recyclable Resources in the finished products in existence. These AN's permanently exist as ~~Paper Money~~ $MRTokens in the economy.
 
  
 
@@ -154,7 +159,7 @@ Three (3) types of NOTES will be issued on an ongoing basis. Two (2) of them are
 
 ## TEMPORARY NOTES
 
- When a worker puts in his personal labor into processes using physical resources, he has Added Labor Value to the products produced that are now in possession within the economy, Because of this “increase” in economic value, it is necessary to create an equivalent amount of money for a temporary term (since the product will eventually wear out) to match that increase. This is done by the TREASURY creating TN's (TEMPORARY NOTES) at a rate of 50% (see VARIABLES section) of employee/worker wages and paying them directly to the employee/worker (the other 50% of employee wages is paid by the employing business). This reduces the Capital Requirements of a business owner to employ workers, and allows the business to sell the products of production before having to repay the 50% of employee pay (that the Treasury Loaned) at fiscal year end or quarterly as the business deems appropriate. [
+When a worker puts in his personal labor into processes using physical resources, he has Added Labor Value to the products produced that are now in possession within the economy, Because of this “increase” in economic value, it is necessary to create an equivalent amount of money for a temporary term (since the product will eventually wear out) to match that increase. This is done by the TREASURY creating TN's (TEMPORARY NOTES) at a rate of 50% (see VARIABLES section) of employee/worker wages and paying them directly to the employee/worker (the other 50% of employee wages is paid by the employing business). This reduces the Capital Requirements of a business owner to employ workers, and allows the business to sell the products of production before having to repay the 50% of employee pay (that the Treasury Loaned) at fiscal year end or quarterly as the business deems appropriate. [
 
 ## NATURAL RESOURCE NOTES
 

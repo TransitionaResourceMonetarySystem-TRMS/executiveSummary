@@ -4,7 +4,7 @@ Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepre
 # TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
 
 ## Global DAO, DAE (Economy) and Supporting Dapps
-## Base on Pre-Crypto TRMS by Mark Traver (c2009)
+#### Base on Pre-Crypto TRMS by Mark Traver (c2009)
 
 
 05/17/18

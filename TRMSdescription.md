@@ -147,7 +147,7 @@ Three (3) types of NOTES will be issued as $MRTokens on an ongoing basis.
 
 ## TEMPORARY NOTES
 
-When a worker puts in his personal labor into processes using physical resources, he has Added Labor Value to the products produced that are now in possession within the economy, Because of this “increase” in economic value, it is necessary to create an equivalent amount of money for a temporary term (since the product will eventually wear out) to match that increase. This is done by the TREASURY creating ~~TN's (TEMPORARY NOTES)~~$MRT at a rate of 50% (see VARIABLES section) of employee/worker wages and paying them directly to the employee/worker (the other 50% of employee wages is paid by the employing business). This reduces the Capital Requirements of a business owner to employ workers, and allows the business to sell the products of production before having to repay the 50% of employee pay ~~(that the Treasury Loaned)~~ at fiscal year end or quarterly as the business deems appropriate.
+When a worker puts in his personal labor into processes using physical resources, he has Added Labor Value to the products produced that are now in possession within the economy, Because of this “increase” in economic value, it is necessary to create an equivalent amount of money for a temporary term (since the product will eventually wear out) to match that increase. This is done by the TRMSystem creating ~~TN's (TEMPORARY NOTES)~~$MRT at a rate of 50% (see VARIABLES section) of employee/worker wages and paying them directly to the employee/worker (the other 50% of employee wages is paid by the employing business). This reduces the Capital Requirements of a business owner to employ workers, and allows the business to sell the products of production before having to repay the 50% of employee pay ~~(that the Treasury Loaned)~~ at fiscal year end or quarterly as the business deems appropriate.
 
 ## NATURAL RESOURCE NOTES
 
@@ -155,7 +155,7 @@ Availability to un-recovered natural resources should not be hindered by the lac
 
 ## ASSET NOTES
 
-The need to keep Notes in the Money Supply to represent the permanent existence of the resources in products which are recyclable is apparent. For that reason, and to assist with businesses needing less capital requirements to start creative projects, the TREASURY will PAY businesses the raw material value of the Recyclable Resource Content of their finished product (as available to the consumer) in ~~AN's~~$MRTokens. These do not have to be repaid and stay in the Money Supply. ~~Business that produce products that have a percentage of Non-Recyclable Resources (%NR) will be TAXED (and spendable by the Government, according to the People, for the General Welfare) the value of the %NR.~~
+The need to keep Notes in the Money Supply to represent the permanent existence of the resources in products which are recyclable is apparent. For that reason, and to assist with businesses needing less capital requirements to start creative projects, the TRMSystem will PAY businesses the raw material value of the Recyclable Resource Content of their finished product (as available to the consumer) in ~~AN's~~$MRTokens. These do not have to be repaid and stay in the Money Supply. ~~Business that produce products that have a percentage of Non-Recyclable Resources (%NR) will be TAXED (and spendable by the Government, according to the People, for the General Welfare) the value of the %NR.~~
 
 [Backed by Recyclable Resources in Products]
 

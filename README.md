@@ -36,7 +36,7 @@ https://www.facebook.com/notes/mark-traver/transitional-resource-monetary-system
 
 https://www.facebook.com/notes/mark-traver/trms-101-finance-the-law-series/10150176954557553/
 
-### THE PROBLEM WITH CRYPTOCURRENCIES (MONEY COINS)
+### THE PROBLEM WITH CRYPTOCURRENCIES (MONEY COINS, eg BTC)
 
 We live in a controlled economic system of Fractional Reserve money creation utilizing notes and bonds of personal and National debt (IOU’s) to create bank deposits and circulating Federal Reserve Notes.  The beneficiary of this activity is primarily the Federal Reserve and the Bank of International Settlements.  
 

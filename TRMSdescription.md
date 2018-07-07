@@ -136,11 +136,11 @@ A Monetary System should not hinder the ability for labor to produce, and it sho
 
 ## MEDIUM OF EXCHANGE:
 
-1. Three (3) types of NOTES will be issued as $MRTokens on an ongoing basis.
+Three (3) types of NOTES will be issued as $MRTokens on an ongoing basis.
 1. Two (2) of them are “LOANS” (at 0%) by the TRMS:
-   1. to employers (non-corporate, under Full Liability) called a Temporary Note (TN) backed by Gold & Silver
-   1. and a Natural Resource Note (RN) backed by un-recovered natural resources.
-1. Neither of these two (2) types of notes will be issued in the paper form seen below, they will ONLY be issued as ~~DEBIT  CARDS~~ $MRTokens (electronic funds) as they are to be recaptured (BURNED) each year (or appropriate cycle).
+   1. to employees (non-corporate, under Full Liability) called a Temporary Note (TN) backed by Gold & Silver
+   1. and to Natural Resource Extractors backed by discovered yet un-recovered natural resources.
+   1. Neither of these two (2) types of notes will be issued in the paper form seen below, they will ONLY be issued as ~~DEBIT  CARDS~~ $MRTokens (electronic funds) as the two (2) loans are to be recaptured (BURNED) upon sale of the created good (or appropriate time cycle; eg 1 year).
 1. The third type is an Asset Note (AN) that in essence never leaves the Money Supply because it represents the value of Recyclable Resources in the finished products in existence. These AN's permanently exist as ~~Paper Money~~ $MRTokens in the economy.
 
  

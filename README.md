@@ -115,7 +115,7 @@ The example of Table-1, shows two scenarios of a entrepreneur and his widget of 
 								|
 	TOTAL  =               $100		$0		|	TOTAL  =                $55             $45
 								|	After Labor Repaid  =	$80		$20
-	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $75
+	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $70
 ----------------------------------------------------------------------------------------------------------------------------
 
 

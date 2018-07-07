@@ -4,7 +4,7 @@
 
 ## SPECIAL THANKS
 
-A special shout out goes to all the giants that everyones works are bassed on, and yes even some gratitued to the evil institutions and families that run them for exposing their systems of financial manipulations and reveiling their weaknesses.  A super special thanks goes out to Dan Larimer and Shatoshi for pushing the bounds of current blockchain technology and shining examples of the diversity of ideas that can be implemented on the blockchain.
+A special shout out goes to all the giants that everyone's works are bassed on, and yes even some gratitued to the evil institutions and families that run them for exposing their systems of financial manipulations and reveiling their weaknesses.  A super special thanks goes out to Dan Larimer and Shatoshi for pushing the bounds of current blockchain technology and shining examples of the diversity of ideas that can be implemented on the blockchain.
 
 #### i
 

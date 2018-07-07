@@ -90,7 +90,7 @@ Any product design with certified recyclable content may get that amount of recy
 The TRMS DAE will lower the entry barriers for new entrepreneurs by lowering startup cost both in the smart use of materials and in spread out labor costs.  Lower Barriers means more employed people and a stronger economy with more competition and innovation. In exchange for this service all producers agree to make available all their products on the TRMS MarketPlace where the currency is $MRT.  In this way all employees and others accepting the $MRT have a guaranteed place to spend them.
 
 
-## COMPARISON AND THEORY
+# COMPARISON AND THEORY
 
 	-“Render unto Caesar the things that are Caesar's” - Mark 12:17
 	-“What is NOT Caesar's use for TRUTH, JUSTICE and COMPASSION to fight the existing Principalities of Evil.” - Mark Traver (2018)

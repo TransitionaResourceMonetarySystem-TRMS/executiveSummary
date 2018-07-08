@@ -81,7 +81,7 @@ The currency of the DAE for the TRMS is the $MRT (eg. $100MRT = “100 Smarts”
 
 2.  Labor cost in the amount of 50% will be provided to physical product producers and will be due and repayable when the product is sold or 1 year, whichever is quicker.  This will reduce the labor cost burden for business owners with new ideas and increase the money supply to approach the value added to the goods by that labor.
 
-3.  Natural Resource Extractors upon submission of proper documentation of Resource Value, Cost of Extraction, Cost of Reclamation and Labor Costs can get ½ the net value of the resource, after said considerations, for up to one year or when the resource is sold, whichever comes first.
+3.  Natural Resource Extractors upon submission of proper documentation of Resource Value, Cost of Extraction, Cost of Reclamation and Labor Costs can get 100% of the resource extraction costs, if they can prove a minimum 30% profit prior to extraction, for up to two years or when the resource is sold, whichever comes first.
 
 ## MONETARY MOTIVATORS
 

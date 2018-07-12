@@ -120,7 +120,7 @@ The example of Table-1, shows two scenarios of a entrepreneur and his widget of 
 
 
 
-	WOW! A 45% less startup cost and yet a 50% increase in profits! - That is PROSPERITY my brothers and sisters.
+	WOW! A 45% less startup cost and yet a 40% increase in profits! - That is PROSPERITY my brothers and sisters.
 	So what happens if the Recyclable content goes up to 100% ?
 
 
@@ -140,11 +140,11 @@ The example of Table-1, shows two scenarios of a entrepreneur and his widget of 
 	SALE PRICE = $150		PROFIT = $50	|	SALE PRICE = $150		PROFIT = $90
 	------------------------------------------------------------------------------------------------------
 
-WOW! Even more amazing with the Recyclable Content at 100%,,, the Entreprenuer only has to invest 35% compared to the Traditional Economic System and they walk away with 180% more profit. PROSPERITY KNOCKS,,, are you opening the door?
+WOW! Even more amazing with the Recyclable Content at 100%,,, the Entreprenuer only has to invest 35% compared to the Traditional Economic System and they walk away with 180% the profit. PROSPERITY KNOCKS,,, are you opening the door?
 
 As can be seen, the incentives to make more recyclable products is HUGE and the assistance to labor costs is substantial. These two aspects of the TRMS will keep the DAE extremely liquid and active.  In the current Traditional Economic System there is no incentive to make things recyclable (the system thrives on waist) and no consideration is given to labor and added value to products because the only concern is LENDING (or with Colonial Script the question of what the government wants to spend it on).
 
-So, say in Table-1 that the product sells for $150, that would mean a person today would make $50 profit off $100 invested, not bad. The guy with 50% recyclable product at the same price makes $70 profit off of only $55 invested.  Finally the guineas guy that makes the 100% recyclable product makes  $90 off of only $35 invested.  What an increasable difference,, from 1/3 profit to 3X profit off the same 100% Recyclable product.
+So, say in Table-1 that the product sells for $150, that would mean a person today would make $50 profit off $100 invested, not bad. The guy with 50% recyclable product at the same price makes $70 profit off of only $55 invested.  Finally the guineas guy that makes the 100% recyclable product makes  $90 off of only $35 invested.  What an increadable difference,, from 1/3 profit to 3X profit off the same 100% Recyclable product.
 
 ## MACRO-ECONOMICS
 

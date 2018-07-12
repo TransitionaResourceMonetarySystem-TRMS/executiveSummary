@@ -103,20 +103,20 @@ For that reason 50% of peoples pay can be created in MRT and it can be repaid wh
 
 The example of Table-1, shows two scenarios of a entrepreneur and his widget of either 50% recyclable material or 100% recyclable material.  It compares what it would cost to “start up” (per widget unit) under our current system as well as between the recyclable content variable.
 
-			TRADITIONAL				|			TRMS
-			Economic System				|		Economic System
-	Product made with 50% Recyclable Content		|	Product made with 50% Recyclable Content
-	---------------------------------------------------------------------------------------------------------------
-	Expense			Owner		System		|	Expense			Owner		System
-	-------			-----		------		|	-------			-----		------	
-	Labor			$50		$0		|	Labor			$25		$25
-	Materials		$40		$0		|	Materials		$20		$20
-	Other			$10		$0		|	Other			$10		$0
-								|
-	TOTAL  =               $100		$0		|	TOTAL  =                $55             $45
-								|	After Labor Repaid  =	$80		$20
-	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $70
-----------------------------------------------------------------------------------------------------------------------------
+			TRADITIONAL			|			TRMS
+			Economic System			|		Economic System
+	Product made with 50% Recyclable Content	|	Product made with 50% Recyclable Content
+	-------------------------------------------------------------------------------------------------------
+	Expense			Owner		System	|	Expense			Owner		System
+	-------			-----		------	|	-------			-----		------	
+	Labor			$50		$0	|	Labor			$25		$25
+	Materials		$40		$0	|	Materials		$20		$20
+	Other			$10		$0	|	Other			$10		$0
+							|
+	TOTAL  =               $100		$0	|	TOTAL  =                $55             $45
+							|	After Labor Repaid  =	$80		$20
+	SALE PRICE = $150		PROFIT = $50	|	SALE PRICE = $150		PROFIT = $70
+-----------------------------------------------------------------------------------------------------------------
 
 
 
@@ -125,20 +125,20 @@ The example of Table-1, shows two scenarios of a entrepreneur and his widget of 
 
 
 
-			TRADITIONAL				|			TRMS
-			Economic System				|		Economic System
-	Product made with 100% Recyclable Content		|	Product made with 100% Recyclable Content
-	---------------------------------------------------------------------------------------------------------------
-	Expense			Owner		System		|	Expense			Owner		System
-	--------		-----		------		|	-------			-----		------
-	Labor			$50		$0		|	Labor			$25		$25
-	Materials		$40		$0		|	Materials		$0		$40
-	Other			$10		$0		|	Other			$10		$0
-								|
-	TOTAL  =		$100		$0		|	TOTAL  =		$35		$65
-								|	After Labor Repaid  =	$60		$40
-	SALE PRICE = $150		PROFIT = $50		|	SALE PRICE = $150		PROFIT = $90
-----------------------------------------------------------------------------------------------------------------------------
+			TRADITIONAL			|			TRMS
+			Economic System			|		Economic System
+	Product made with 100% Recyclable Content	|	Product made with 100% Recyclable Content
+	------------------------------------------------------------------------------------------------------
+	Expense			Owner		System	|	Expense			Owner		System
+	--------		-----		------	|	-------			-----		------
+	Labor			$50		$0	|	Labor			$25		$25
+	Materials		$40		$0	|	Materials		$0		$40
+	Other			$10		$0	|	Other			$10		$0
+							|
+	TOTAL  =		$100		$0	|	TOTAL  =		$35		$65
+							|	After Labor Repaid  =	$60		$40
+	SALE PRICE = $150		PROFIT = $50	|	SALE PRICE = $150		PROFIT = $90
+	------------------------------------------------------------------------------------------------------
 
 WOW! Even more amazing with the Recyclable Content at 100%,,, the Entreprenuer only has to invest 35% compared to the Traditional Economic System and they walk away with 180% more profit. PROSPERITY KNOCKS,,, are you opening the door?
 

@@ -318,7 +318,7 @@ GEOTHERMAL – Of all the traditional “alternative” energies, geothermal by 
 
  
 
-## Natural Gas
+### Natural Gas
 
 the damages to the environment and its integrity. As the natural gas is sold, the RN's are to be paid back quarterly to the TREASURY. (to allow for market price variation), the TREASURY will loan RN's to natural gas extraction businesses to cover expenses (less 50% of total employee pay – see above) in order to accomplish the task. An Environmental Remediation Plan must be accounted for as to Natural Gas is not only used for energy, it is used for fertilizer production. Being a non-renewable resource, it makes sense to minimize its burning and non recoverable fertilizer use, and maximize its uses where at least some of, if not all of, its value may be recycled (same holds true for Oil). When reasonably shown to exist and be extractable
 

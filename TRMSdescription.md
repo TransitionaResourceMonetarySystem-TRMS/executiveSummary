@@ -294,25 +294,25 @@ Since their inception, Public Utilities have been subject to special regulation 
 
  
 
-## ENERGY
+### ENERGY
 
 Energy does work, and therefor is equivalent to the “Added Value” of human labor. So a sustained increase in available energy is like increasing the output per worker. In the US electric usage is about 11.4 kW per person and a normal human diet is about 2,000 K cal per day. This means that each person in the US uses the energy of some 13 people every day to accomplish their tasks. The average GNP per person is $25,860 per year, and since the mid 1970 per-capita electrical usage has remained stable around 350 million BTU. Despite this, National electricity usage has gone up about 1% per year over a similar 25 year period (75-99). As a “general principal” then, it may be establish that TN's up to the value of 30% of the future end-user available energy expected production of a proposed “Energy Plant” may be loaned to develop the project and paid back over the lifetime of the plant at a minimum of 50% of revenues (until repaid in full).
 
  
 
-## Electricity
+### Electricity
 
 GEOTHERMAL – Of all the traditional “alternative” energies, geothermal by far offers the most potential for long term high output with minimal environmental effect. In addition it utilizes the existing centralized transmission structures and systems of management. The promotion of conversion from Oil and Coal power plants to geothermal is desirable. For this reason a TN loan up to 70% the future end-user available energy expected production for a facility. Payback must therefor also be increased to a minimum of 75% of revenues (until repaid in full).
 
-## SOLAR POWER –
+#### SOLAR POWER –
 
-## WIND POWER -
+#### WIND POWER -
 
-## WATER POWER –
+#### WATER POWER –
 
-## OVER-UNITY DEVICES –
+#### OVER-UNITY DEVICES –
 
-## NON-RENEWABLE –
+#### NON-RENEWABLE –
 
  
 
@@ -324,7 +324,7 @@ the damages to the environment and its integrity. As the natural gas is sold, th
 
 13
 
-## COMUNICATIONS
+# COMUNICATIONS
 
 The ability to communicate is essential in a modern society as well lubricating commerce and is essential for maintenance of a responsive government to the people. For this reason, the “general welfare” dictates that these services should be made available to all at a minimum of encumbrance. At this time the author reserves any opinions as to government financing, however he does feel this is an appropriate area for “Government Projects”, however this must be decided by the voters/constituents. Communication is not a tangible physical object that is added to the marketplace, so there con not be the creation of notes. However, the physical structures and infrastructure are entitled to AN's to the extent they are recyclable.
 
@@ -338,7 +338,7 @@ The ability to communicate is essential in a modern society as well lubricating 
 
  
 
-## WATER
+# WATER
 
 Availability of fresh water is historically the measure of wealth in a civilization. There is NO doubt that water is of up most importance to people, along with water and breathable air. For this reason, water projects have historically been government projects. Voter approval required for all projects. However, water is a “temporary” commodity like food, and is used shortly after produced in usable availability. Therefor the creation of notes is not possible. Government Projects would be able to use created AN's to the extent that the physical materials of the project were recyclable (as with all business). Voters would suggest adaptions to Government Projects and their funding.
 
@@ -356,13 +356,13 @@ Availability of fresh water is historically the measure of wealth in a civilizat
 
  
 
-## NEW CREATIONS
+# NEW CREATIONS
 
 It should not be assumed that all good ideas on Utilities and their possibilities has been considered. Therefore the possibility of new creations should encouraged and given consideration when brought up.
 
  
 
-## PRIVATE INDEPENDENCE
+# PRIVATE INDEPENDENCE
 
 Private independence is paramount. If people wish to stay off the grid or off the sewage system, or use alternative construction or alternative energies, they should be not only allowed but encouraged to do so. All benefits possible should be given to those seeking independence.
 

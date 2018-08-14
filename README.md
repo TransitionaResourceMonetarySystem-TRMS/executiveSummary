@@ -1,4 +1,4 @@
-# executiveSummary
+# executiveSummary: The FIRST "KILLER APP" for the BLOCKCHAIN
 ### Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and to facilitate the reuse/recycling of all resources.
 
 # TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
@@ -16,7 +16,7 @@ This summary is intended to be the simplest and shortest possible explanation of
 
 ## MODERN MONEY CREATION
 
-Although there have been a few examples of GOLD backed currencies in the modern era (the USA until 1933,1971 and Switzerland until 2000) after the Renaissance European royalty was compelled to  expand the money supply beyond their stored gold and coin which brought about the first “Fractional Reserve” institution of money creation.  The Rothschilds figured this one out, if the economy grows there needs to be an equivalent growth in the money supply or else the economy grinds to a halt.  In fact neither INFLATION nor DEFLATION are desireable, one causes the devaluation of savings, the onther devalues assets (decreasing the desire to own them-think droping of MEMORY prices as a comparison). The optimal monitary system would hold the value of money stable, so that pepoles savings held value and business could invest with confidence about the future. Looking back at what happened one would have to concluded the royalty were not to bright and got duped by the Rothschilds and the “Banksters” as they were allowed the ability to create money by the mere request of a borrower and his signature and run away with the intrest scott free.
+Although there have been a few examples of GOLD backed currencies in the modern era (the USA until 1933,1971 and Switzerland until 2000) after the Renaissance European royalty was compelled to  expand the money supply beyond their stored gold and coin which brought about the first “Fractional Reserve” institution of money creation.  The Rothschilds figured this one out, if the economy grows there needs to be an equivalent growth in the money supply or else the economy grinds to a halt.  In fact neither INFLATION nor DEFLATION are desireable, one causes the devaluation of savings, the onther devalues assets (decreasing the desire to own them-think droping of RAM prices as a comparison). The optimal monitary system would hold the value of money stable, so that pepoles savings held value and business could invest with confidence about the future. Looking back at what happened one would have to concluded the royalty were not to bright and got duped by the Rothschilds and the “Banksters” as they were allowed the ability to create money by the mere request of a borrower and his signature and run away with the intrest scott free.
 
 Along comes the Colonies and they realized this same concept and created Colonial Script, but this time, instead of the Bankster’s getting to issue it at interest, the Government would spend the new money into the economy for public projects (like roads etc.) at no interest and based on the annual growth rate of the economy.  As long as the government was accurate and not abusive of this ability to create money, then this system worked far superior to the Bankster Fractional Reserve system.
 
@@ -46,9 +46,9 @@ We all recognize that this system is a form of slavery using a Keynesian economi
 
 "Build a New Model That Makes the Existing Model Obsolete" - Buckminster Fuller
 
-So we start using Cryptos like we already use money in the existing fiat monetary system.  We speculate and hope for gains and don’t institute new paradigms of lending and behavioral motivation towards common goals instead of self interest.  We have this wonderful seemingly full of limitless possibilities new tool and we go and use it like a hammer, like the least intelligent tool in the box. All one hears is "Lambo" and "To the Moon".
+So we started using Cryptos like we already used fiat money in the existing inflationary/deflationary monetary system.  We speculate and hope for gains and don’t institute new paradigms of lending or baking of the money and behavioral motivations towards common goals can be designed in instead of the current design that promotes only self interest.  We have this wonderful seemingly full of limitless possibilities new tool and we go and use it like a hammer, like the least intelligent tool in the box. All one hears is "Lambo" and "To the Moon".
 
-What we need is a whole new economic system where the creation of money goes to the creator of the real wealth (retain-able recyclable content and added value) and not to the bank or some central entity like government.  A brand new way of monetary creation that is used to encouraged social benefit and prosperity via stimulating ease of entry into both business and markets for entrepreneurs and intelligent design of products to maximize recycle-ability and reuse-ability.  An intelligently designed Economic System that includes all aspects of the economy from Natural Resource extraction and Commodities Exchanges to Design and Recycling, with OpenMarketPlaces to exchange goods freely and arbitration and governance systems for continued smooth operation. (Real Estate and Housing and some other topics are not covered in this Executive Summary)
+What we need is a whole new economic system where the creation of money goes to the creator of the real wealth (retain-able recyclable content and added value) and not to the bank or some central entity like government.  A brand new way of monetary creation that is used to encouraged social benefit and prosperity via stimulating ease of entry into both business and markets for entrepreneurs and intelligent design of products to maximize recycle-ability and reuse-ability.  An intelligently designed Economic System that includes all aspects of the economy from Natural Resource extraction and Commodities Exchanges to Design and Recycling, with OpenMarketPlaces to exchange goods freely and arbitration and governance systems for continued smooth operation (Real Estate and Housing and some other topics are not covered in this Executive Summary) with a money backed by physical recyclable content in the economy.
 
 # TRMS – Transitional Resource Monetary System
 
@@ -161,3 +161,4 @@ An Account of MRTs and Materials in the DAE.
 The first run of goods production will create 4 widgets.
 
 (TO BE CONTINUED)
+

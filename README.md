@@ -56,7 +56,7 @@ What we need is a whole new economic system where the creation of money goes to 
 ## DESIRED SOCIAL RESULTS
 
 	1. It is the intention of this economic system to provide a stable currency backed by recyclable materials both in storage and in products within the economy. 
-	2. to promote the usage of recyclable materials and technologies as well as modularity and reusable products.
+	2.  to promote the usage of recyclable materials and modular technologies as well as reusable products.
 	3. to lessen the burden of labor costs on producers.
 	4. to lessen the costs for natural resource extractors.
 	5. to lessen the costs for building a home.
@@ -78,7 +78,7 @@ The governance token will be widely airdropped to EOS accounts and TRMS Dapp dev
 	MRT Token (“$mart Coin”)
 The currency of the DAE for the TRMS is the $MRT (eg. $100MRT = “100 Smarts”) and is used for all purposes of commerce in this physical economy. The value is fixed to a ratio of recyclable commodity values including gold and silver. The monetary supply is set by the 3 forms of currency creation explained below. Some require the BURNING of the token when repaid at the end of the contract.
 
-1.  Anyone in possession of goods with recyclable content (who will recycle it at the end of its life-cycle) may go to a qualified “Recycle Center” and have an RFID tracker (VEN style [initial partnership?]) installed and a certification of the recyclable content value less the cost of recycling of the good given and paid out in new $MRT coin in said value .
+1.  Anyone who turns in recyclable materials will be compensated in $MRT for the recyclable content value less the cost of recycling of the product/materials turned in.
 
 2.  Labor cost in the amount of 50% will be provided to physical product producers and will be due and repayable when the product is sold or 1 year, whichever is quicker.  This will reduce the labor cost burden for business owners with new ideas and increase the money supply to approach the value added to the goods by that labor.
 

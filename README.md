@@ -1,4 +1,4 @@
-# executiveSummary: The FIRST "KILLER APP" for the BLOCKCHAIN
+# executiveSummary: 0% Loans for at least 50%+ of your labor cost for Manufacturers ONLY
 ### Creating a Decentralized Autonomous ECONOMY (DAE) to make it easier for entrepreneurs to produce physical goods and to facilitate the reuse/recycling of all resources.
 
 # TRANSITIONAL RESOURCE MONETARY SYSTEM (TRMS)
